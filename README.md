@@ -1,0 +1,3 @@
+Lodging Reservations Analysis
+
+Developed a machine learning project to analyze lodging reservation data, utilizing Decision Tree for cancellation prediction (75% accuracy) and Ridge Regression for daily rate estimation (R²: 0.33). Leveraged Python, Pandas, NumPy, and Scikit-learn to preprocess data and build models. Visualized insights using Seaborn and Matplotlib, uncovering correlations between pricing and stay duration to support better business decisions.
